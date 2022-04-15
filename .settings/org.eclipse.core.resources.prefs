@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/action/SearchAllProAction.java=UTF-8
+encoding//src/controller/Controller.java=UTF-8
+encoding//src/controller/PetitionListImp.java=UTF-8
+encoding//src/controller/PetitionListLatestImp.java=UTF-8
+encoding//src/controller/PetitionListSortImp.java=UTF-8
+encoding//src/dao/AnswerDAO.java=UTF-8
+encoding//src/dao/ToAnswerPetitionDAO.java=UTF-8
+encoding//src/mybatis/ProcessPetitionList.java=UTF-8
